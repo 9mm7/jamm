@@ -18,8 +18,6 @@ Jàmm is a **local-first, end-to-end encrypted voting platform** for collective 
 
 ![Jàmm public audit] <img width="1280" height="950" alt="web-audit-live" src="https://github.com/user-attachments/assets/8b73c88d-55f7-4bf4-918a-27938cfeb843" />
 
-> More: a full coalition demo (open + revealed ballots with results, finances,
-> events) is captured under [`screenshots/`](screenshots/) (i.e. `docs/screenshots/`).
 
 ## Why
 
