@@ -12,11 +12,11 @@ Jàmm is a **local-first, end-to-end encrypted voting platform** for collective 
 
 **Member web portal** — voting, dues status, open elections, announcements
 
-![Jàmm member portal](screenshots/member-home.png)
+![Jàmm member portal] <img width="1280" height="901" alt="member-home" src="https://github.com/user-attachments/assets/ba653edb-0735-4522-b904-b5f06c32fa39" />
 
 **Public audit** — every action sealed on the canonical integrity chain, with an independent Python verifier and public export
 
-![Jàmm public audit](screenshots/web-audit-live.png)
+![Jàmm public audit] <img width="1280" height="950" alt="web-audit-live" src="https://github.com/user-attachments/assets/8b73c88d-55f7-4bf4-918a-27938cfeb843" />
 
 > More: a full coalition demo (open + revealed ballots with results, finances,
 > events) is captured under [`screenshots/`](screenshots/) (i.e. `docs/screenshots/`).
