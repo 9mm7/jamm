@@ -8,7 +8,6 @@ Jàmm is a **local-first, end-to-end encrypted voting platform** for collective 
 
 ## Screenshots
 
-> Designs from the Jàmm design system (forest green `#1f5a3d` · terracotta `#c25a2d`).
 
 **Member web portal** — voting, dues status, open elections, announcements
 
@@ -24,8 +23,6 @@ Jàmm is a **local-first, end-to-end encrypted voting platform** for collective 
 Collective organizations in Senegal and across the diaspora run on trust — and trust breaks when votes are disputed. Existing tools either require trusting a SaaS vendor with sensitive membership data, or provide no integrity guarantees at all. Jàmm is built on a different premise: **the organization owns its data, cryptography guarantees the count.**
 
 ## How it works
-
-<!-- NOTE: review depth of security disclosure before any production/public launch -->
 
 - **Local-first storage** — each organization's data lives in an SQLCipher-encrypted database it controls. No cloud dependency for the core.
 - **Argon2id-hardened key** — the database master key is derived with Argon2id (19 MiB, memory-hard), making offline brute-force of a stolen database file impractical, not just PBKDF2-fast.
